@@ -1,0 +1,4 @@
+#{domain}:{ns1}:{ns2}:{mx}:{a_ip}:{ns1_ip}:{ns2_ip}
+#
+site.ru:ns1.1tbit.ru:ns2.1tbit.ru:mx.yandex.ru:5.9.115.232:88.198.101.24:88.198.101.27
+
